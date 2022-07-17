@@ -14,7 +14,7 @@ plugins:
 
 custom:
   client:
-    bucketName: serverless-aws-fe-2-app
+    bucketName: serverless-aws-fe-app
     distributionFolder: build
     indexDocument: index.html
     errorDocument: index.html
